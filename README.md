@@ -1,1 +1,1 @@
-# Gr-fica
+# Gráfica general
